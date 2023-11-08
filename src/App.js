@@ -19,7 +19,7 @@ export default function App() {
           {""}
           <FontAwesomeIcon icon={faGithub} />
           {""} {""}
-          by Elvina
+         This project was coded by Elvina
         </footer>
       </div>
     </div>
