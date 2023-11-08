@@ -10,7 +10,7 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           <a
-            href=""
+            href="https://github.com/Elvin4ik/SheCodesWeather.git"
             target="_blank"
             rel="noreferrer"
           >
